@@ -1,0 +1,23 @@
+{
+  "name": "inf93",
+  "version": "1.0.0",
+  "description": "tp-uml-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiloutyg/inf93.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiloutyg/inf93/issues"
+  },
+  "homepage": "https://github.com/kiloutyg/inf93#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
