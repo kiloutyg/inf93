@@ -131,5 +131,8 @@
       }
     }
   },
-  "defaultProject": "c_aiguise.WebUI"
+  "defaultProject": "c_aiguise.WebUI",
+  "cli": {
+    "analytics": "dd0fd3cd-f760-4546-8f6a-9a66805c72b7"
+  }
 }
