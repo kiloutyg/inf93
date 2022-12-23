@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="petclinic">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/apinath/petclinic.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
